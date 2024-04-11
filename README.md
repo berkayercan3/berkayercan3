@@ -1,4 +1,3 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/115825102?v=4)
 <h1 align="center">Hi 👋, I'm Berkay Ercan</h1>
 <h3 align="center">Computer Engineer</h3>
 
