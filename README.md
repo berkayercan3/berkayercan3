@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay Ercan</h1>
 <h3 align="center">Computer Engineer</h3>
 
-- 📫 How to reach me **ercabnberkay103@gmail.com**
+- 📫 How to reach me **ercanberkay103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
