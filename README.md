@@ -59,14 +59,19 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayercan3&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
+<h3 align="left">GitHub Stats & Activity:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=berkayercan3&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=berkayercan3&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkayercan3&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=berkayercan3&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=berkayercan3&theme=onedark" alt="GitHub Trophies" />
 </p>
