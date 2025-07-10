@@ -61,7 +61,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayercan3&show_icons=true&locale=en" alt="berkayercan3" /></p>
 
-<!--
-Streak kaldırıldı
--->
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkayercan3&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
