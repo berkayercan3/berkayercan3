@@ -68,5 +68,5 @@
 </p>
 
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=berkayercan3&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=berkayercan3&theme=react-dark&area=true" alt="GitHub Activity Graph" />
 </p>
