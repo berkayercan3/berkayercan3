@@ -31,17 +31,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkayercan3&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berkayercan3&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkayercan3&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkayercan3&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkayercan3&theme=default&utcOffset=8)
