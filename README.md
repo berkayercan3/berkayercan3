@@ -1,62 +1,45 @@
 <h1 align="center">Berkay Ercan</h1>
 
 <p align="center">
-  <b>Computer Engineer • Founder of Picksyu • Building city-focused digital products</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Founder+of+Picksyu;Computer+Engineer;Building+city-focused+digital+products;Flutter+%E2%80%A2+Firebase+%E2%80%A2+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Bilgisayar Mühendisi • Picksyu Kurucusu • Şehir odaklı dijital ürünler geliştiriyorum</b>
-</p>
-
-<p align="center">
-  I build products that connect people, places and local businesses.<br>
-  İnsanları, mekânları ve yerel işletmeleri birbirine bağlayan ürünler geliştiriyorum.
-</p>
-
-<p align="center">
-  <a href="https://ercansoft.com">Website</a> •
-  <a href="https://picksyu.com">Picksyu</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.picksyu.app">Google Play</a> •
-  <a href="https://apps.apple.com/tr/app/picksyu/id6753584719">App Store</a> •
-  <a href="https://www.youtube.com/@ercanberkay">YouTube</a> •
-  <a href="mailto:berkayercan@picksyu.com">E-mail</a>
+  <a href="https://ercansoft.com">
+    <img src="https://img.shields.io/badge/Website-ercansoft.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://picksyu.com">
+    <img src="https://img.shields.io/badge/Picksyu-picksyu.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.picksyu.app">
+    <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/tr/app/picksyu/id6753584719">
+    <img src="https://img.shields.io/badge/App_Store-Download-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 What I’m Building | Ne İnşa Ediyorum
-
-### Picksyu
-A city-focused discovery, social interaction and rewards platform.  
-Şehir odaklı keşif, sosyal etkileşim ve ödül platformu.
+## 🚀 Picksyu
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-banner.png" alt="Picksyu Banner" width="100%" />
+  <b>City-focused discovery, social interaction and rewards platform.</b><br/>
+  <b>Şehir odaklı keşif, sosyal etkileşim ve ödül platformu.</b>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-1.png" alt="Picksyu Screen 1" width="30%" />
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-2.png" alt="Picksyu Screen 2" width="30%" />
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-3.png" alt="Picksyu Screen 3" width="30%" />
+  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-banner.png" width="100%" alt="Picksyu Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-demo.gif" width="48%" alt="Picksyu Demo"/>
+  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-screen.png" width="48%" alt="Picksyu Screen"/>
 </p>
 
 ---
 
-## ⚡ Quick Snapshot | Kısa Özet
-
-- 🚀 Founder of **Picksyu**
-- 📱 Building cross-platform mobile applications with **Flutter**
-- ☁️ Developing scalable systems with **Firebase**
-- 🤖 Working on **AI, recommendation systems and gamification**
-
-- 🚀 **Picksyu'nun kurucusuyum**
-- 📱 **Flutter** ile mobil uygulamalar geliştiriyorum
-- ☁️ **Firebase** ile ölçeklenebilir sistemler kuruyorum
-- 🤖 **Yapay zekâ, öneri sistemleri ve oyunlaştırma** üzerine çalışıyorum
-
----
-
-## 📊 GitHub Insights | GitHub Görünümü
+## 📊 Dev Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=berkayercan3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
@@ -64,27 +47,12 @@ A city-focused discovery, social interaction and rewards platform.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayercan3&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkayercan3&theme=tokyonight" width="58%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkayercan3&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-## 📈 Development Metrics | Geliştirme Metrikleri
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berkayercan3&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkayercan3&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkayercan3&theme=tokyonight" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkayercan3&theme=tokyonight&utcOffset=3" width="40%" />
-</p>
-
----
-
-## 🛠 Tech Stack
+## 🛠 Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,js,kotlin,figma,git,github" />
@@ -92,11 +60,14 @@ A city-focused discovery, social interaction and rewards platform.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/berkay-ercan">LinkedIn</a> •
   <a href="https://www.youtube.com/@ercanberkay">YouTube</a> •
-  <a href="https://ercansoft.com">ercansoft.com</a> •
-  <a href="https://picksyu.com">picksyu.com</a>
+  <a href="mailto:berkayercan@picksyu.com">E-mail</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/output/snake.svg" alt="Snake animation" />
 </p>
