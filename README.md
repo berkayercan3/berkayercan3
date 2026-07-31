@@ -1,73 +1,53 @@
-<h1 align="center">Berkay Ercan</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Berkay Ercan — Computer Engineer, Founder of Picksyu, building products for cities">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Founder+of+Picksyu;Computer+Engineer;Building+city-focused+digital+products;Flutter+%E2%80%A2+Firebase+%E2%80%A2+AI" alt="Typing SVG" />
+  <a href="https://picksyu.com"><img src="https://img.shields.io/badge/Picksyu-Visit-18A66A?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Visit Picksyu"></a>
+  <a href="https://apps.apple.com/tr/app/picksyu/id6753584719"><img src="https://img.shields.io/badge/App_Store-Download-0A84FF?style=flat-square&amp;logo=appstore&amp;logoColor=white" alt="Download Picksyu on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.picksyu.app"><img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=flat-square&amp;logo=googleplay&amp;logoColor=white" alt="Download Picksyu on Google Play"></a>
 </p>
+
+## Picksyu
+
+**A city-focused discovery, social interaction and rewards platform.**<br>
+Şehir odaklı keşif, sosyal etkileşim ve ödül platformu.
+
+<a href="https://picksyu.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/picksyu-showcase-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/picksyu-showcase-light.png">
+    <img src="./assets/picksyu-showcase-light.png" width="100%" alt="Picksyu city discovery, social sharing and rewards product showcase">
+  </picture>
+</a>
+
+## Build signal
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg">
+  <img src="./assets/metrics-light.svg" width="100%" alt="Berkay Ercan public development snapshot">
+</picture>
+
+## Stack
 
 <p align="center">
-  <a href="https://ercansoft.com">
-    <img src="https://img.shields.io/badge/Website-ercansoft.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://picksyu.com">
-    <img src="https://img.shields.io/badge/Picksyu-picksyu.com-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.picksyu.app">
-    <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-  </a>
-  <a href="https://apps.apple.com/tr/app/picksyu/id6753584719">
-    <img src="https://img.shields.io/badge/App_Store-Download-0A84FF?style=for-the-badge&logo=appstore&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,js,kotlin,git,github,figma&amp;theme=light" alt="Flutter, Dart, Firebase, Node.js, JavaScript, Kotlin, Git, GitHub and Figma" height="44">
 </p>
 
----
-
-## 🚀 Picksyu
+## Connect
 
 <p align="center">
-  <b>City-focused discovery, social interaction and rewards platform.</b><br/>
-  <b>Şehir odaklı keşif, sosyal etkileşim ve ödül platformu.</b>
+  <a href="https://linkedin.com/in/berkay-ercan"><img src="https://img.shields.io/badge/LinkedIn-Berkay_Ercan-2563EB?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@ercanberkay"><img src="https://img.shields.io/badge/YouTube-Ercan_Berkay-FF6B5F?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
+  <a href="https://ercansoft.com"><img src="https://img.shields.io/badge/Portfolio-ercansoft.com-334155?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:berkayercan@picksyu.com"><img src="https://img.shields.io/badge/E--mail-Contact-18A66A?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="E-mail Berkay Ercan"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-banner.png" width="100%" alt="Picksyu Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-demo.gif" width="48%" alt="Picksyu Demo"/>
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/main/assets/picksyu-screen.png" width="48%" alt="Picksyu Screen"/>
-</p>
-
----
-
-## 📊 Dev Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayercan3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=berkayercan3&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkayercan3&theme=tokyonight" width="100%" />
-</p>
-
----
-
-## 🛠 Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,js,kotlin,figma,git,github" />
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/berkay-ercan">LinkedIn</a> •
-  <a href="https://www.youtube.com/@ercanberkay">YouTube</a> •
-  <a href="mailto:berkayercan@picksyu.com">E-mail</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/berkayercan3/berkayercan3/output/snake.svg" alt="Snake animation" />
-</p>
+<!--
+  Contribution snake is generated safely on the output branch by
+  .github/workflows/snake.yml. It is intentionally not rendered until the
+  first successful workflow run, so the profile never shows a broken image.
+-->

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title description">
+  <title id="title">Berkay Ercan public development snapshot</title>
+  <desc id="description">Twenty-one public repositories, building on GitHub since 2022, with a product core of Flutter, Firebase and Cloud Functions.</desc>
+  <rect x="1" y="1" width="1278" height="298" rx="26" fill="#18211F" stroke="#354942" stroke-width="2"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="48" y="58" fill="#42C98A" font-size="15" font-weight="700" letter-spacing="2.5">BUILD SIGNAL · PUBLIC SNAPSHOT</text>
+    <text x="48" y="115" fill="#F4FBF7" font-size="40" font-weight="760">21</text>
+    <text x="48" y="145" fill="#A9BEB5" font-size="17">public repositories</text>
+    <text x="250" y="115" fill="#F4FBF7" font-size="40" font-weight="760">2022</text>
+    <text x="250" y="145" fill="#A9BEB5" font-size="17">building on GitHub since</text>
+    <text x="490" y="102" fill="#F4FBF7" font-size="17" font-weight="700">PRODUCT CORE</text>
+    <text x="490" y="137" fill="#D5E6DE" font-size="21">Flutter · Firebase · Cloud Functions</text>
+    <text x="490" y="192" fill="#F4FBF7" font-size="17" font-weight="700">CURRENT FOCUS</text>
+    <text x="490" y="227" fill="#D5E6DE" font-size="21">City-tech · AI · Recommendations</text>
+    <text x="48" y="258" fill="#82978E" font-size="13">Initial public snapshot · refreshed by the repository metrics workflow</text>
+  </g>
+  <rect x="48" y="180" width="360" height="16" rx="8" fill="#2A3934"/>
+  <path d="M56 188H186" stroke="#42C98A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M194 188H283" stroke="#6F9CFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M291 188H350" stroke="#FF8A73" stroke-width="8" stroke-linecap="round"/>
+  <path d="M358 188H400" stroke="#81938A" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(1130 58)">
+    <circle cx="0" cy="0" r="18" fill="#29483A"/><circle cx="0" cy="0" r="7" fill="#42C98A"/>
+    <path d="M0 18V178" stroke="#355246" stroke-width="2" stroke-dasharray="6 8"/>
+    <circle cx="0" cy="90" r="12" fill="#2A3A59"/><circle cx="0" cy="90" r="5" fill="#6F9CFF"/>
+    <circle cx="0" cy="178" r="12" fill="#4A312D"/><circle cx="0" cy="178" r="5" fill="#FF8A73"/>
+  </g>
+</svg>

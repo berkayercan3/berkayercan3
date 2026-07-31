@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">Berkay Ercan — Founder of Picksyu</title>
+  <desc id="description">Computer engineer building products for cities, people and local businesses.</desc>
+  <defs>
+    <linearGradient id="light-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBFDFC"/>
+      <stop offset="1" stop-color="#F0F7F3"/>
+    </linearGradient>
+    <linearGradient id="light-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#18A66A"/>
+      <stop offset="1" stop-color="#2F6FED"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="358" rx="30" fill="#FBFDFC" stroke="#DCE9E2" stroke-width="2"/>
+  <circle cx="1170" cy="54" r="104" fill="#DDF3E7" opacity=".7"/>
+  <circle cx="1020" cy="335" r="168" fill="#E8F0FF" opacity=".7"/>
+  <path d="M0 300C210 244 300 352 490 302S780 254 930 292s238 36 350-8" fill="none" stroke="#CFE8DB" stroke-width="2"/>
+  <path d="M36 316C230 270 334 342 520 314s286-70 452-30 202 42 308 14" fill="none" stroke="#D9E5FA" stroke-width="2" stroke-dasharray="7 10"/>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="72" y="72" fill="#197B53" font-size="17" font-weight="700" letter-spacing="3">BERKAY ERCAN</text>
+    <text x="72" y="137" fill="#10231B" font-size="50" font-weight="760">Computer Engineer</text>
+    <text x="72" y="184" fill="#197B53" font-size="29" font-weight="700">Founder of Picksyu</text>
+    <text x="72" y="233" fill="#334C41" font-size="24" font-weight="560">Building products for cities.</text>
+    <text x="72" y="273" fill="#60756B" font-size="18">Şehirler, insanlar ve yerel işletmeler için dijital ürünler.</text>
+  </g>
+
+  <g transform="translate(760 58)">
+    <path d="M18 196H446" stroke="#BFD8CC" stroke-width="3" stroke-linecap="round"/>
+    <rect x="36" y="91" width="66" height="105" rx="8" fill="#FFFFFF" stroke="#C9DED3" stroke-width="2"/>
+    <rect x="116" y="49" width="82" height="147" rx="9" fill="#F7FBF9" stroke="#BFD8CC" stroke-width="2"/>
+    <rect x="212" y="75" width="74" height="121" rx="9" fill="#FFFFFF" stroke="#C9DED3" stroke-width="2"/>
+    <rect x="300" y="28" width="102" height="168" rx="10" fill="#F6F9FF" stroke="#C7D6F5" stroke-width="2"/>
+    <g fill="#18A66A" opacity=".75">
+      <rect x="53" y="113" width="12" height="12" rx="3"/><rect x="75" y="113" width="12" height="12" rx="3"/>
+      <rect x="53" y="137" width="12" height="12" rx="3"/><rect x="75" y="137" width="12" height="12" rx="3"/>
+      <rect x="136" y="74" width="13" height="13" rx="3"/><rect x="162" y="74" width="13" height="13" rx="3"/>
+      <rect x="136" y="101" width="13" height="13" rx="3"/><rect x="162" y="101" width="13" height="13" rx="3"/>
+    </g>
+    <g fill="#2F6FED" opacity=".7">
+      <rect x="231" y="101" width="13" height="13" rx="3"/><rect x="255" y="101" width="13" height="13" rx="3"/>
+      <rect x="324" y="55" width="14" height="14" rx="3"/><rect x="352" y="55" width="14" height="14" rx="3"/>
+      <rect x="324" y="85" width="14" height="14" rx="3"/><rect x="352" y="85" width="14" height="14" rx="3"/>
+    </g>
+    <path d="M69 91C108 27 180 22 240 75s132 31 161-34" fill="none" stroke="url(#light-accent)" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="69" cy="91" r="7" fill="#18A66A"/><circle cx="240" cy="75" r="7" fill="#FF7A66"/><circle cx="401" cy="41" r="7" fill="#2F6FED"/>
+    <g transform="translate(306 218)">
+      <rect width="140" height="42" rx="21" fill="#10231B"/>
+      <circle cx="24" cy="21" r="10" fill="#42C98A"/>
+      <circle cx="24" cy="21" r="4" fill="#10231B"/>
+      <text x="44" y="27" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="700" letter-spacing="1.5">PICKSYU</text>
+    </g>
+  </g>
+</svg>

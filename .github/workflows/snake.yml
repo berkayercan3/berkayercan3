@@ -1,0 +1,52 @@
+name: Contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate light and dark snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#18A66A&color_dots=#EDF7F2,#BDEBD2,#73D9A5,#35B97B,#197B53
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#42C98A&color_dots=#26342F,#315244,#3E705B,#42A977,#67D79C
+
+      - name: Publish isolated output branch
+        run: |
+          set -euo pipefail
+          mkdir -p output
+          cp dist/github-contribution-grid-snake.svg output/
+          cp dist/github-contribution-grid-snake-dark.svg output/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          snake_index_file="$RUNNER_TEMP/snake-index"
+          GIT_INDEX_FILE="$snake_index_file" git read-tree --empty
+          GIT_INDEX_FILE="$snake_index_file" git add -f output/github-contribution-grid-snake.svg output/github-contribution-grid-snake-dark.svg
+          snake_tree=$(GIT_INDEX_FILE="$snake_index_file" git write-tree)
+
+          if git fetch origin output; then
+            snake_parent=$(git rev-parse FETCH_HEAD)
+            snake_commit=$(printf '%s\n' "Update contribution snake" | git commit-tree "$snake_tree" -p "$snake_parent")
+          else
+            snake_commit=$(printf '%s\n' "Create contribution snake" | git commit-tree "$snake_tree")
+          fi
+
+          git push origin "$snake_commit:refs/heads/output"
